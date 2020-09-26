@@ -1,4 +1,4 @@
-CC=gcc
+CC=gcc-10
 CFLAGS=-fopenmp -std=gnu99 -O2
 
 centroid.x: centroid.c
